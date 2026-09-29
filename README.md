@@ -1,66 +1,3 @@
-<div align="center">
-
-# Sergio Marino Estévez
-
-**Desarrollador Web en formación | Estudiante de 2.º de DAW**
-
- Ubicación: España &nbsp;|&nbsp;  Contacto: [sermaes2007@gmail.com](mailto:sermaes2007@gmail.com) &nbsp;|&nbsp;  GitHub: [@sergiomarinoestevez2007](https://github.com/sergiomarinoestevez2007)
-
----
-
-</div>
-
-## Perfil Profesional
-
-Estudiante de último curso del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. Orientado al desarrollo de software con especial interés en la programación Orientada a Objetos, arquitectura Backend con **Java** y construcción de interfaces web funcionales.
-
-Actualmente enfocado en la consolidación de buenas prácticas de código, patrones de diseño y preparación para la incorporación al mercado laboral a través de proyectos prácticos y la finalización del ciclo formativo.
-
----
-
-## Formación y Competencias
-
-```javascript
-const sergioMarino = {
-  titulacion: "Técnico Superior en Desarrollo de Aplicaciones Web (En curso - 2.º año)",
-  especialidades: ["Desarrollo Backend", "Desarrollo Frontend", "Bases de Datos"],
-  lenguajesPrincipales: ["Java", "JavaScript", "HTML5", "CSS3", "SQL"],
-  entornosYHerramientas: ["Git", "GitHub", "IntelliJ IDEA", "VS Code"],
-  interesesProfesionales: [
-    "Arquitectura de software",
-    "Desarrollo de APIs REST",
-    "Persistencia de datos y bases de datos relacionales"
-  ]
-};
-```
-
----
-
-## Tecnologías y Herramientas
-
-### Lenguajes y Desarrollo Web
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Control de Versiones y Entornos de Trabajo
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
----
-
-## Estado Académico y Objetivos
-
-- **Estado actual:** Finalizando el 2.º curso de DAW.
-- **Objetivo a corto plazo:** Realización del proyecto final de ciclo y aplicación de conocimientos en entorno real de trabajo.
-- **Áreas de aprendizaje continuo:** Profundización en frameworks backend (Java/Spring Boot) y consumo de servicios web.
-
----
-
-## Actividad en GitHub
 
 <div align="center">
 
@@ -68,3 +5,47 @@ const sergioMarino = {
 <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomarinoestevez2007&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes más usados por Sergio Marino" />
 
 </div>
+
+%%{
+  init: {
+    'theme': 'base',
+    'themeVariables': {
+      'primaryColor': '#0d1117',
+      'primaryTextColor': '#c9d1d9',
+      'primaryBorderColor': '#30363d',
+      'lineColor': '#58a6ff',
+      'secondaryColor': '#161b22',
+      'tertiaryColor': '#21262d'
+    }
+  }
+}%%
+
+flowchart TD
+    %% Estilos CSS con Animaciones
+    classDef main fill:#1f6feb,stroke:#58a6ff,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef nodeStyle fill:#161b22,stroke:#30363d,stroke-width:1.5px,color:#c9d1d9;
+    classDef highlight fill:#238636,stroke:#2ea043,stroke-width:2px,color:#fff,font-weight:bold;
+    classDef animated stroke:#a371f7,stroke-width:2px,animation:pulse 2s infinite;
+
+    %% Definición de Keyframes para animación de pulso
+    linkStyle default stroke:#58a6ff,stroke-width:1.5px;
+
+    %% Estructura
+    ME(["🚀 Tu Nombre / Handle"]):::main
+    
+    ME --> ROLE["💻 Rol Principal<br/><i>Software Engineer / Fullstack</i>"]:::highlight
+    ME --> STACK["⚡ Tech Stack"]:::nodeStyle
+    ME --> GOALS["🎯 En lo que estoy trabajando"]:::nodeStyle
+    ME --> CONNECT["📫 Contacto & Redes"]:::nodeStyle
+
+    %% Detalle de Stack
+    STACK --> S1["<b>Frontend:</b> React, Vue, Tailwind"]:::nodeStyle
+    STACK --> S2["<b>Backend:</b> Node.js, Python, Go"]:::nodeStyle
+    STACK --> S3["<b>Tools:</b> Docker, Git, CI/CD"]:::nodeStyle
+
+    %% Detalle de Proyectos / Objetivos
+    GOALS --> G1["📌 Proyecto A <i>(Breve descripción)</i>"]:::animated
+    GOALS --> G2["🌱 Aprendiendo: <i>Rust / Cloud Architecture</i>"]:::nodeStyle
+
+    %% Contacto
+    CONNECT --> C1["💬 LinkedIn | X | Portfolio"]:::nodeStyle
