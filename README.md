@@ -18,7 +18,7 @@ Apasionado por la programación y con ganas de seguir creciendo.
 
 ## Sobre mí
 
-```js
+
 const sergio = {
   formacion:    "Desarrollo de Aplicaciones Web (DAW)",
   ubicacion:    "España",
@@ -26,7 +26,7 @@ const sergio = {
   intereses:    ["desarrollo web", "Java", "programación orientada a objetos"],
   lenguajes:    ["Java", "HTML", "CSS", "JavaScript"],
 };
-```
+
 
 ---
 
