@@ -1,49 +1,50 @@
-# Sermaes09k[README_sergio.md](https://github.com/user-attachments/files/27477161/README_sergio.md)
 <div align="center">
-
-[![Follow](https://img.shields.io/badge/FOLLOW%20%40SERGIOMARINOESTEVEZ2007-%236E40C9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sergiomarinoestevez2007)
 
 # Sergio Marino Estévez
 
-**Estudiante de DAW · España**
+**Desarrollador Web en formación | Estudiante de 2.º de DAW**
 
-Apasionado por la programación y con ganas de seguir creciendo.
+ Ubicación: España &nbsp;|&nbsp;  Contacto: [sermaes2007@gmail.com](mailto:sermaes2007@gmail.com) &nbsp;|&nbsp;  GitHub: [@sergiomarinoestevez2007](https://github.com/sergiomarinoestevez2007)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/sergiomarinoestevez2007)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:sermaes2007@gmail.com)
+---
 
 </div>
 
+## Perfil Profesional
+
+Estudiante de último curso del Ciclo Formativo de Grado Superior en **Desarrollo de Aplicaciones Web (DAW)**. Orientado al desarrollo de software con especial interés en la programación Orientada a Objetos, arquitectura Backend con **Java** y construcción de interfaces web funcionales.
+
+Actualmente enfocado en la consolidación de buenas prácticas de código, patrones de diseño y preparación para la incorporación al mercado laboral a través de proyectos prácticos y la finalización del ciclo formativo.
+
 ---
 
-## Sobre mí
+## Formación y Competencias
 
-
-const sergio = {
-  formacion:    "Desarrollo de Aplicaciones Web (DAW)",
-  ubicacion:    "España",
-  actualmente:  ["terminando DAW", "aprendiendo cada semana"],
-  intereses:    ["desarrollo web", "Java", "programación orientada a objetos"],
-  lenguajes:    ["Java", "HTML", "CSS", "JavaScript"],
+```javascript
+const sergioMarino = {
+  titulacion: "Técnico Superior en Desarrollo de Aplicaciones Web (En curso - 2.º año)",
+  especialidades: ["Desarrollo Backend", "Desarrollo Frontend", "Bases de Datos"],
+  lenguajesPrincipales: ["Java", "JavaScript", "HTML5", "CSS3", "SQL"],
+  entornosYHerramientas: ["Git", "GitHub", "IntelliJ IDEA", "VS Code"],
+  interesesProfesionales: [
+    "Arquitectura de software",
+    "Desarrollo de APIs REST",
+    "Persistencia de datos y bases de datos relacionales"
+  ]
 };
-
+```
 
 ---
 
-## Pila
+## Tecnologías y Herramientas
 
-**Web**
-
+### Lenguajes y Desarrollo Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**Backend y lenguajes**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**Herramientas**
-
+### Control de Versiones y Entornos de Trabajo
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white)
@@ -51,11 +52,19 @@ const sergio = {
 
 ---
 
-## Estadísticas
+## Estado Académico y Objetivos
+
+- **Estado actual:** Finalizando el 2.º curso de DAW.
+- **Objetivo a corto plazo:** Realización del proyecto final de ciclo y aplicación de conocimientos en entorno real de trabajo.
+- **Áreas de aprendizaje continuo:** Profundización en frameworks backend (Java/Spring Boot) y consumo de servicios web.
+
+---
+
+## Actividad en GitHub
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=sergiomarinoestevez2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomarinoestevez2007&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="150" src="https://github-readme-stats.vercel.app/api?username=sergiomarinoestevez2007&show_icons=true&theme=gotham&hide_border=true&count_private=true" alt="Estadísticas de GitHub de Sergio Marino" />
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sergiomarinoestevez2007&layout=compact&theme=gotham&hide_border=true" alt="Lenguajes más usados por Sergio Marino" />
 
 </div>
