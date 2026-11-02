@@ -1,17 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1d,100:0891b2&height=200&section=header&text=Sergio%20Mari%C3%B1o%20Est%C3%A9vez&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Desarrollador%20Web%20en%20formaci%C3%B3n&descAlignY=58&descSize=18" width="100%" alt="Sergio Mariño Estévez" />
+# Sergio Mariño Estévez
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Estudiante+de+2.%C2%BA+de+DAW;Java+%C2%B7+JavaScript+%C2%B7+SQL;React+%C2%B7+Next.js+%C2%B7+Tailwind+CSS;Aprendiendo+algo+nuevo+cada+d%C3%ADa" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1500&color=06B6D4&center=true&vCenter=true&width=480&height=36&lines=Desarrollador+Web+en+formaci%C3%B3n;Java+%C2%B7+React+%C2%B7+Next.js+%C2%B7+SQL;Siempre+aprendiendo+algo+nuevo" alt="Desarrollador Web en formación" />
 
-<br/><br/>
+<br/>
 
-<a href="https://sergio-marino-estevez.vercel.app"><img src="https://img.shields.io/badge/Portfolio-sergio--marino--estevez.vercel.app-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:sermaes2007@gmail.com"><img src="https://img.shields.io/badge/Email-sermaes2007%40gmail.com-0a0f1d?style=for-the-badge&logo=gmail&logoColor=06B6D4" alt="Email" /></a>
-<img src="https://img.shields.io/badge/Ubicaci%C3%B3n-Espa%C3%B1a-0a0f1d?style=for-the-badge&logo=googlemaps&logoColor=06B6D4" alt="España" />
+<a href="https://sergio-marino-estevez.vercel.app"><img src="https://img.shields.io/badge/Portfolio-06B6D4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="mailto:sermaes2007@gmail.com"><img src="https://img.shields.io/badge/Email-0a0f1d?style=flat-square&logo=gmail&logoColor=06B6D4" alt="Email" /></a>
+<img src="https://img.shields.io/badge/España-0a0f1d?style=flat-square&logo=googlemaps&logoColor=06B6D4" alt="España" />
 
 </div>
-
 ---
 
 ## 👨‍💻 Perfil Profesional
